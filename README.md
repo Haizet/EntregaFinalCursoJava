@@ -1,5 +1,5 @@
 # Entrega Final Curso Java
-##Dictado por PoloTic Misiones
+###Dictado por PoloTic Misiones
 
 
 El proyecto se basa en una app web de venta de entradas para un parque de diversiones.
